@@ -1,0 +1,19 @@
+{
+    "name": "amd/api_day_tracker",
+    "require": {
+        "slim/slim": "^4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amd\\ApiDayTracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amália Coelho",
+            "email": "apenas.coelho03@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
