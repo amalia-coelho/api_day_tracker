@@ -1,7 +1,9 @@
 {
     "name": "amd/api_day_tracker",
     "require": {
-        "slim/slim": "^4.0"
+        "slim/slim": "^4.0",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1"
     },
     "license": "MIT",
     "autoload": {
